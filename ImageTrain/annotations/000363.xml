@@ -1,0 +1,22 @@
+<annotation>
+  <folder>collated_images</folder>
+  <filename>000363.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>1020</width>
+    <height>576</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>truck</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>224</xmin>
+      <ymin>103</ymin>
+      <xmax>1015</xmax>
+      <ymax>534</ymax>
+    </bndbox>
+  </object>
+</annotation>

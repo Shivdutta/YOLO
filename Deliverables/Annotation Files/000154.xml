@@ -1,0 +1,34 @@
+<annotation>
+  <folder>collated_images</folder>
+  <filename>000154.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>700</width>
+    <height>716</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>steel-coil</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>13</xmin>
+      <ymin>5</ymin>
+      <xmax>695</xmax>
+      <ymax>602</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>steel-coil</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>13</xmin>
+      <ymin>5</ymin>
+      <xmax>697</xmax>
+      <ymax>601</ymax>
+    </bndbox>
+  </object>
+</annotation>

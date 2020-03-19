@@ -1,0 +1,22 @@
+<annotation>
+  <folder>collated_images</folder>
+  <filename>000180.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>750</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>steel-coil</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>3</xmin>
+      <ymin>64</ymin>
+      <xmax>747</xmax>
+      <ymax>491</ymax>
+    </bndbox>
+  </object>
+</annotation>

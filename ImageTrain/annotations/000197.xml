@@ -1,0 +1,34 @@
+<annotation>
+  <folder>collated_images</folder>
+  <filename>000197.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>500</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>saddle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>19</xmin>
+      <ymin>59</ymin>
+      <xmax>476</xmax>
+      <ymax>424</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>saddle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>19</xmin>
+      <ymin>59</ymin>
+      <xmax>477</xmax>
+      <ymax>423</ymax>
+    </bndbox>
+  </object>
+</annotation>

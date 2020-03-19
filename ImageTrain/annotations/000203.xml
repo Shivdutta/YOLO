@@ -1,0 +1,22 @@
+<annotation>
+  <folder>collated_images</folder>
+  <filename>000203.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>600</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>saddle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>43</xmin>
+      <ymin>9</ymin>
+      <xmax>598</xmax>
+      <ymax>654</ymax>
+    </bndbox>
+  </object>
+</annotation>
